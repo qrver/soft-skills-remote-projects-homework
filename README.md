@@ -33,7 +33,7 @@
 
 | Участник | GitHub | Роль |
 |----------|--------|------|
-| QRver | [@qrver](https://github.com/qrver) | Team Lead, Frontend |
+| Гордиенко Данила Андреевич | [@qrver](https://github.com/qrver) | Team Lead, Frontend |
 | Александров Данила Игоревич | [@Zerglosha](https://github.com/Zerglosha) | Backend, база данных |
 | Рожков Александр Станиславович | [@asukusa](https://github.com/asukusa) | Frontend, QA |
 | Арчаков Алексей Николаевич | [@alexeyrlnks](https://github.com/alexeyrlnks) | Research, Media, Docs |
